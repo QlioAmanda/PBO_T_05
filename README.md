@@ -1,9 +1,7 @@
 ## Struktur Folder
-PBO_P_05/
-│
-├── Case1/ # Exercise 3.1 (Employee Sortable)
-├── Case2/ # Exercise 3.1 (Manager Sortable)
-└── GoodsApp/ # Soal Interface (Goods, Food, Toy, Book)
+- `PBO_P_05/Case1/` → Exercise 3.1 (Employee Sortable)  
+- `PBO_P_05/Case2/` → Exercise 3.1 (Manager Sortable)  
+- `PBO_P_05/GoodsApp/` → Soal Interface (Goods, Food, Toy, Book)  
 
 ## Deskripsi
 - **Case1** → `Employee` dibuat `Sortable`, diuji dengan `EmployeeTest`.
